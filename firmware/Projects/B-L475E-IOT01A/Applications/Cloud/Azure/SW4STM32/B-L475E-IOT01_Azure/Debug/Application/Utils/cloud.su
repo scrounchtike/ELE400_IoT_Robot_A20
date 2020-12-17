@@ -1,0 +1,5 @@
+cloud.c:86:13:hnet_notify	24	static
+cloud.c:69:6:dialog_ask	16	static
+cloud.c:154:6:CLOUD_Error_Handler	8	static
+cloud.c:208:5:platform_init	24	static
+cloud.c:323:6:platform_deinit	8	static

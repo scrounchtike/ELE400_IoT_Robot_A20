@@ -1,0 +1,11 @@
+prov_auth_client.c:217:18:prov_auth_create	40	static
+prov_auth_client.c:322:6:prov_auth_destroy	8	static
+prov_auth_client.c:335:16:prov_auth_get_type	24	static
+prov_auth_client.c:352:7:prov_auth_get_registration_id	192	static
+prov_auth_client.c:397:5:prov_auth_set_registration_id	32	static
+prov_auth_client.c:425:15:prov_auth_get_endorsement_key	32	static
+prov_auth_client.c:464:15:prov_auth_get_storage_key	32	static
+prov_auth_client.c:503:5:prov_auth_import_key	24	static
+prov_auth_client.c:535:7:prov_auth_construct_sas_token	152	static
+prov_auth_client.c:621:7:prov_auth_get_certificate	24	static
+prov_auth_client.c:644:7:prov_auth_get_alias_key	24	static

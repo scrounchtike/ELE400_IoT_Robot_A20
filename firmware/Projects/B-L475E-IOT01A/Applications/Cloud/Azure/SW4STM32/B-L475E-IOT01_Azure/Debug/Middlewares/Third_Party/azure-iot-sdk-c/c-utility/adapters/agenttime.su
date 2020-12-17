@@ -1,0 +1,5 @@
+agenttime.c:9:8:get_time	0	static
+agenttime.c:14:12:get_gmtime	0	static
+agenttime.c:19:8:get_mktime	0	static
+agenttime.c:24:7:get_ctime	0	static
+agenttime.c:29:8:get_difftime	0	static

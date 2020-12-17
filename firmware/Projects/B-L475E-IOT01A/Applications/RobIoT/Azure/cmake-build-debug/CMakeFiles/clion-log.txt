@@ -1,0 +1,36 @@
+/home/lu/opt/clion-2020.2.4/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=/home/lu/opt/gcc-arm-none-eabi-9-2020-q2-update/bin/arm-none-eabi-gcc -G "CodeBlocks - Unix Makefiles" /home/lu/Projects/STM32CubeExpansion_Cloud_AZURE_V1.2.1/Projects/B-L475E-IOT01A/Applications/Cloud/Azure
+-- The C compiler identification is unknown
+-- Check for working C compiler: /home/lu/opt/gcc-arm-none-eabi-9-2020-q2-update/bin/arm-none-eabi-gcc
+-- Check for working C compiler: /home/lu/opt/gcc-arm-none-eabi-9-2020-q2-update/bin/arm-none-eabi-gcc - broken
+CMake Error at /home/lu/opt/clion-2020.2.4/bin/cmake/linux/share/cmake-3.17/Modules/CMakeTestCCompiler.cmake:60 (message):
+  The C compiler
+
+    "/home/lu/opt/gcc-arm-none-eabi-9-2020-q2-update/bin/arm-none-eabi-gcc"
+
+  is not able to compile a simple test program.
+
+  It fails with the following output:
+
+    Change Dir: /home/lu/Projects/STM32CubeExpansion_Cloud_AZURE_V1.2.1/Projects/B-L475E-IOT01A/Applications/Cloud/Azure/cmake-build-debug/CMakeFiles/CMakeTmp
+    
+    Run Build Command(s):/usr/bin/make cmTC_d49c7/fast && /usr/bin/make  -f CMakeFiles/cmTC_d49c7.dir/build.make CMakeFiles/cmTC_d49c7.dir/build
+    make[1]: Entering directory '/home/lu/Projects/STM32CubeExpansion_Cloud_AZURE_V1.2.1/Projects/B-L475E-IOT01A/Applications/Cloud/Azure/cmake-build-debug/CMakeFiles/CMakeTmp'
+    Building C object CMakeFiles/cmTC_d49c7.dir/testCCompiler.c.o
+    /home/lu/opt/gcc-arm-none-eabi-9-2020-q2-update/bin/arm-none-eabi-gcc    -o CMakeFiles/cmTC_d49c7.dir/testCCompiler.c.o   -c /home/lu/Projects/STM32CubeExpansion_Cloud_AZURE_V1.2.1/Projects/B-L475E-IOT01A/Applications/Cloud/Azure/cmake-build-debug/CMakeFiles/CMakeTmp/testCCompiler.c
+    /home/lu/opt/gcc-arm-none-eabi-9-2020-q2-update/bin/arm-none-eabi-gcc: /home/lu/opt/gcc-arm-none-eabi-9-2020-q2-update/bin/arm-none-eabi-gcc: cannot execute binary file
+    make[1]: *** [CMakeFiles/cmTC_d49c7.dir/build.make:86: CMakeFiles/cmTC_d49c7.dir/testCCompiler.c.o] Error 126
+    make[1]: Leaving directory '/home/lu/Projects/STM32CubeExpansion_Cloud_AZURE_V1.2.1/Projects/B-L475E-IOT01A/Applications/Cloud/Azure/cmake-build-debug/CMakeFiles/CMakeTmp'
+    make: *** [Makefile:141: cmTC_d49c7/fast] Error 2
+    
+    
+
+  
+
+  CMake will not be able to correctly generate this project.
+Call Stack (most recent call first):
+  CMakeLists.txt:2 (project)
+
+
+-- Configuring incomplete, errors occurred!
+See also "/home/lu/Projects/STM32CubeExpansion_Cloud_AZURE_V1.2.1/Projects/B-L475E-IOT01A/Applications/Cloud/Azure/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "/home/lu/Projects/STM32CubeExpansion_Cloud_AZURE_V1.2.1/Projects/B-L475E-IOT01A/Applications/Cloud/Azure/cmake-build-debug/CMakeFiles/CMakeError.log".

@@ -1,0 +1,6 @@
+prov_security_factory.c:55:5:prov_dev_security_init	40	static
+prov_security_factory.c:93:6:prov_dev_security_deinit	8	static
+prov_security_factory.c:113:20:prov_dev_security_get_type	0	static
+prov_security_factory.c:118:5:prov_dev_set_symmetric_key_info	40	static
+prov_security_factory.c:176:13:prov_dev_get_symmetric_key	0	static
+prov_security_factory.c:181:13:prov_dev_get_symm_registration_name	0	static

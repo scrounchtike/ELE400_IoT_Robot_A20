@@ -1,0 +1,2 @@
+hsm_client_data.c:21:5:initialize_hsm_system	24	static
+hsm_client_data.c:50:6:deinitialize_hsm_system	8	static

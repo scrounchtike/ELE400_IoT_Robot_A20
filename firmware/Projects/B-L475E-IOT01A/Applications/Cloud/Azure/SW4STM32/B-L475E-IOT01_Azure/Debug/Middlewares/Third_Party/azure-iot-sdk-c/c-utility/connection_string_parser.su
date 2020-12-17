@@ -1,0 +1,4 @@
+connection_string_parser.c:35:12:connectionstringparser_parse	56	static
+connection_string_parser.c:13:12:connectionstringparser_parse_from_char	24	static
+connection_string_parser.c:159:5:connectionstringparser_splitHostName_from_char	16	static
+connection_string_parser.c:218:5:connectionstringparser_splitHostName	16	static

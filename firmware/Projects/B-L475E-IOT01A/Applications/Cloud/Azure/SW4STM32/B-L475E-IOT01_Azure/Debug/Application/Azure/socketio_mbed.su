@@ -1,0 +1,13 @@
+socketio_mbed.c:49:14:socketio_CloneOption	0	static
+socketio_mbed.c:57:13:socketio_DestroyOption	0	static
+socketio_mbed.c:91:13:indicate_error	0	static
+socketio_mbed.c:451:5:socketio_setoption	0	static
+socketio_mbed.c:139:20:socketio_create	24	static
+socketio_mbed.c:215:5:socketio_open	24	static
+socketio_mbed.c:63:29:socketio_retrieveoptions	0	static
+socketio_mbed.c:186:6:socketio_destroy	16	static
+socketio_mbed.c:264:5:socketio_close	24	static
+socketio_mbed.c:99:12:add_pending_io.isra.2	24	static
+socketio_mbed.c:299:5:socketio_send	40	static
+socketio_mbed.c:367:6:socketio_dowork	40	static
+socketio_mbed.c:457:33:socketio_get_interface_description	0	static

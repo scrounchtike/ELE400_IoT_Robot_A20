@@ -1,0 +1,7 @@
+RiotSha256.c:262:13:SHA256_Transform	64	static
+RiotSha256.c:251:6:RIOT_SHA256_Init.part.0	16	static
+RiotSha256.c:251:6:RIOT_SHA256_Init	0	static
+RiotSha256.c:341:6:RIOT_SHA256_Update	32	static
+RiotSha256.c:390:6:RIOT_SHA256_Final	16	static
+RiotSha256.c:454:6:RIOT_SHA256_Block_ctx	24	static
+RiotSha256.c:461:6:RIOT_SHA256_Block	128	static

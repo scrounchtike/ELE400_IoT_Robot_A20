@@ -1,0 +1,5 @@
+urlencode.c:221:22:encode_url_data	40	static
+urlencode.c:262:15:URL_EncodeString	0	static
+urlencode.c:276:15:URL_Encode	24	static
+urlencode.c:315:15:URL_Decode	32	static
+urlencode.c:292:15:URL_DecodeString	16	static

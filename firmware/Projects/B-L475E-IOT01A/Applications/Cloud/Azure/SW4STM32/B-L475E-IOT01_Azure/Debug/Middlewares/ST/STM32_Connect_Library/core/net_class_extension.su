@@ -1,0 +1,7 @@
+net_class_extension.c:25:9:net_wifi_scan	8	static
+net_class_extension.c:53:9:net_wifi_get_scan_results	8	static
+net_class_extension.c:68:9:net_wifi_set_credentials	0	static
+net_class_extension.c:74:9:net_wifi_set_powersave	8	static
+net_class_extension.c:99:9:net_wifi_set_param	8	static
+net_class_extension.c:116:9:net_cellular_set_credentials	8	static
+net_class_extension.c:143:9:net_cellular_get_radio_results	8	static

@@ -1,0 +1,7 @@
+flash_l4.c:171:12:FLASH_get_pageInBank	0	static
+flash_l4.c:270:17:GetPage	0	static
+flash_l4.c:147:10:FLASH_get_bank	8	static
+flash_l4.c:331:10:FLASH_Init	8	static
+flash_l4.c:203:5:FLASH_update	72	static,ignoring_inline_asm
+flash_l4.c:366:5:FLASH_Erase_Size	48	static
+flash_l4.c:429:5:FLASH_Write	32	static

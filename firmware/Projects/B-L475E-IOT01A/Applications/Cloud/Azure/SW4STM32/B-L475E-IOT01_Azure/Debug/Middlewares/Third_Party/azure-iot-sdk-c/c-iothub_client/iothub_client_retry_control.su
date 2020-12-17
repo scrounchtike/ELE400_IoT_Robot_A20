@@ -1,0 +1,9 @@
+iothub_client_retry_control.c:72:13:retry_control_destroy_option	32	static
+iothub_client_retry_control.c:37:14:retry_control_clone_option	32	static
+iothub_client_retry_control.c:382:5:retry_control_set_option	48	static
+iothub_client_retry_control.c:202:5:is_timeout_reached	40	static
+iothub_client_retry_control.c:250:6:retry_control_reset	24	static
+iothub_client_retry_control.c:269:22:retry_control_create	24	static
+iothub_client_retry_control.c:309:6:retry_control_destroy	24	static
+iothub_client_retry_control.c:323:5:retry_control_should_retry	48	static
+iothub_client_retry_control.c:460:22:retry_control_retrieve_options	40	static

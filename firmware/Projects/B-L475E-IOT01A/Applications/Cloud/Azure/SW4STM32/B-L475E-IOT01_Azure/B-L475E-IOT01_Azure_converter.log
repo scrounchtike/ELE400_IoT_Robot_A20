@@ -1,0 +1,8 @@
+Project: B-L475E-IOT01_Azure
+Converter: ST System Workbench for STM32 project converter
+Date: 20201125
+
+Option fr.ac6.managedbuild.tool.gnu.cross.cpp.linker.noexceptions is no longer supported
+Option fr.ac6.managedbuild.tool.gnu.cross.cpp.linker.nortti is no longer supported
+Value type err, id: gnu.cpp.link.option.flags
+Unknown value type "" for id gnu.both.asm.option.include.paths on tool fr.ac6.managedbuild.tool.gnu.cross.assembler

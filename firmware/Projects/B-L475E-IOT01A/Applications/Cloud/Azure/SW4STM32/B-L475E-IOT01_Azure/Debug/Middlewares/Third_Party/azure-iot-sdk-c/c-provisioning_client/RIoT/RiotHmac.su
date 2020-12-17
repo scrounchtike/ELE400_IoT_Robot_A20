@@ -1,0 +1,3 @@
+RiotHmac.c:23:1:RIOT_HMAC_SHA256_Init	24	static
+RiotHmac.c:70:1:RIOT_HMAC_SHA256_Update	0	static
+RiotHmac.c:81:1:RIOT_HMAC_SHA256_Final	16	static

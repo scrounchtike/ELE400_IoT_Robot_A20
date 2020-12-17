@@ -1,0 +1,16 @@
+net_socket.c:49:13:is_valid_socket	0	static
+net_socket.c:68:16:create_low_level_socket	16	static
+net_socket.c:97:16:find_free_socket	8	static
+net_socket.c:153:9:net_socket	24	static
+net_socket.c:178:9:net_bind	32	static
+net_socket.c:234:9:net_accept	32	static
+net_socket.c:290:9:net_listen	8	static
+net_socket.c:426:9:net_send	24	static
+net_socket.c:488:9:net_recv	24	static
+net_socket.c:556:9:net_sendto	32	static
+net_socket.c:609:9:net_recvfrom	32	static
+net_socket.c:663:9:net_shutdown	16	static
+net_socket.c:722:9:net_closesocket	24	static
+net_socket.c:335:9:net_connect	32	static
+net_socket.c:786:9:net_setsockopt	48	static
+net_socket.c:1074:9:net_access_control	0	static

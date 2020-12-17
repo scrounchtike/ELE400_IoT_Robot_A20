@@ -1,0 +1,3 @@
+xlogging.c:16:6:xlogging_set_log_function	0	static
+xlogging.c:21:12:xlogging_get_log_function	0	static
+xlogging.c:50:6:LogBinary	136	static

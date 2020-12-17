@@ -1,0 +1,15 @@
+RiotCrypt.c:56:1:RiotCrypt_Hash.part.0	128	static
+RiotCrypt.c:13:1:RiotCrypt_Kdf	128	static
+RiotCrypt.c:56:1:RiotCrypt_Hash	4	static
+RiotCrypt.c:77:1:RiotCrypt_Hash2	128	static
+RiotCrypt.c:107:1:RiotCrypt_Hmac	192	static
+RiotCrypt.c:131:1:RiotCrypt_Hmac2	192	static
+RiotCrypt.c:158:1:RiotCrypt_DeriveEccKey	72	static
+RiotCrypt.c:186:1:RiotCrypt_ExportEccPub	16	static
+RiotCrypt.c:203:1:RiotCrypt_Sign	48	static
+RiotCrypt.c:218:1:RiotCrypt_SignDigest	4	static
+RiotCrypt.c:233:1:RiotCrypt_Verify	48	static
+RiotCrypt.c:248:1:RiotCrypt_VerifyDigest	4	static
+RiotCrypt.c:343:1:RiotCrypt_SymEncryptDecrypt	224	static
+RiotCrypt.c:265:1:RiotCrypt_EccEncrypt	192	static
+RiotCrypt.c:307:1:RiotCrypt_EccDecrypt	160	static

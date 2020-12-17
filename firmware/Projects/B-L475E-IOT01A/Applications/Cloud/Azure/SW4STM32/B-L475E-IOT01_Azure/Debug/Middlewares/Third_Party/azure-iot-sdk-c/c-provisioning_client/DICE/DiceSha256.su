@@ -1,0 +1,8 @@
+DiceSha256.c:261:13:SHA256_Transform	64	static
+DiceSha256.c:250:6:DICE_SHA256_Init.part.0	16	static
+DiceSha256.c:250:6:DICE_SHA256_Init	0	static
+DiceSha256.c:340:6:DICE_SHA256_Update	32	static
+DiceSha256.c:386:6:DICE_SHA256_Final	16	static
+DiceSha256.c:447:6:DiceSHA256Ctx	24	static
+DiceSha256.c:454:6:DiceSHA256	128	static
+DiceSha256.c:462:6:DiceSHA256_2	136	static

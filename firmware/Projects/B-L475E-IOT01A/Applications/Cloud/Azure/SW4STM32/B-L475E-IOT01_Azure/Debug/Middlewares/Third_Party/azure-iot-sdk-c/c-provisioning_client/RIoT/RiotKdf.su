@@ -1,0 +1,2 @@
+RiotKdf.c:44:8:RIOT_KDF_FIXED	24	static
+RiotKdf.c:84:6:RIOT_KDF_SHA256	192	static

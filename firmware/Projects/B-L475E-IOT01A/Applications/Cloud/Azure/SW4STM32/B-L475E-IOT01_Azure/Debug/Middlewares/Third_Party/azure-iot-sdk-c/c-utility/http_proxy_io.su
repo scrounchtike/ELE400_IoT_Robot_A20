@@ -1,0 +1,15 @@
+http_proxy_io.c:239:13:unchecked_on_send_complete	0	static
+http_proxy_io.c:762:12:http_proxy_io_close	24	static
+http_proxy_io.c:230:13:indicate_open_complete_error_and_close	8	static
+http_proxy_io.c:606:13:on_underlying_io_bytes_received	48	static
+http_proxy_io.c:245:13:on_underlying_io_open_complete	144	static
+http_proxy_io.c:49:27:http_proxy_io_create	56	static
+http_proxy_io.c:479:13:on_underlying_io_close_complete	24	static
+http_proxy_io.c:891:12:http_proxy_io_set_option	32	static
+http_proxy_io.c:872:13:http_proxy_io_dowork	24	static
+http_proxy_io.c:826:12:http_proxy_io_send	32	static
+http_proxy_io.c:447:13:on_underlying_io_error	24	static
+http_proxy_io.c:703:12:http_proxy_io_open	48	static
+http_proxy_io.c:203:13:http_proxy_io_destroy	24	static
+http_proxy_io.c:926:29:http_proxy_io_retrieve_options	32	static
+http_proxy_io.c:963:33:http_proxy_io_get_interface_description	0	static

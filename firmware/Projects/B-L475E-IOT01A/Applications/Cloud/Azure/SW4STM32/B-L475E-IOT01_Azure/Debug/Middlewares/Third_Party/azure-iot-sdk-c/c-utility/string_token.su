@@ -1,0 +1,8 @@
+string_token.c:54:12:get_next_token	72	static
+string_token.c:148:21:StringToken_GetFirst	56	static
+string_token.c:185:6:StringToken_GetNext	48	static
+string_token.c:209:13:StringToken_GetValue	24	static
+string_token.c:238:8:StringToken_GetLength	24	static
+string_token.c:265:13:StringToken_GetDelimiter	24	static
+string_token.c:378:6:StringToken_Destroy	24	static
+string_token.c:284:5:StringToken_Split	88	static

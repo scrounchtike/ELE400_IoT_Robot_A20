@@ -1,0 +1,17 @@
+stm32l475e_iot01_bus.c:670:16:I2C2_WriteReg.part.4	8	static
+stm32l475e_iot01_bus.c:751:17:I2C_GetTiming.constprop	760	static
+stm32l475e_iot01_bus.c:200:9:BSP_I2C2_DeInit	8	static
+stm32l475e_iot01_bus.c:232:9:BSP_I2C2_WriteReg	24	static
+stm32l475e_iot01_bus.c:245:9:BSP_I2C2_ReadReg	24	static
+stm32l475e_iot01_bus.c:258:9:BSP_I2C2_WriteReg16	24	static
+stm32l475e_iot01_bus.c:271:9:BSP_I2C2_ReadReg16	24	static
+stm32l475e_iot01_bus.c:282:9:BSP_I2C2_IsReady	8	static
+stm32l475e_iot01_bus.c:359:26:MX_I2C2_Init	0	static
+stm32l475e_iot01_bus.c:152:9:BSP_I2C2_Init	48	static
+stm32l475e_iot01_bus.c:426:9:BSP_SPI1_DeInit	8	static
+stm32l475e_iot01_bus.c:456:9:BSP_SPI1_Send	8	static
+stm32l475e_iot01_bus.c:473:10:BSP_SPI1_Recv	8	static
+stm32l475e_iot01_bus.c:491:9:BSP_SPI1_SendRecv	16	static
+stm32l475e_iot01_bus.c:567:26:MX_SPI1_Init	4	static
+stm32l475e_iot01_bus.c:377:9:BSP_SPI1_Init	72	static
+stm32l475e_iot01_bus.c:588:9:BSP_GetTick	0	static

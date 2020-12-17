@@ -1,0 +1,12 @@
+commanddecoder.c:29:12:DecodeValueFromNode	72	static
+commanddecoder.c:803:13:validateModel_vs_Multitree	152	static
+commanddecoder.c:615:28:DecodeMethod	80	static
+commanddecoder.c:18:1:COMMANDDECODER_RESULTStrings	0	static
+commanddecoder.c:18:1:COMMANDDECODER_RESULT_FromString	24	static
+commanddecoder.c:635:24:CommandDecoder_ExecuteCommand	224	static
+commanddecoder.c:693:21:CommandDecoder_ExecuteMethod	48	static
+commanddecoder.c:753:24:CommandDecoder_Create	64	static
+commanddecoder.c:786:6:CommandDecoder_Destroy	0	static
+commanddecoder.c:798:1:AGENT_DATA_TYPE_TYPEStrings	0	static
+commanddecoder.c:798:1:AGENT_DATA_TYPE_TYPE_FromString	24	static
+commanddecoder.c:982:24:CommandDecoder_IngestDesiredProperties	56	static

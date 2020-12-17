@@ -1,0 +1,14 @@
+hsm_client_riot_STM32Cube.c:734:7:hsm_client_riot_get_certificate	32	static
+hsm_client_riot_STM32Cube.c:721:6:hsm_client_riot_destroy	8	static
+hsm_client_riot_STM32Cube.c:907:7:hsm_client_riot_get_common_name	32	static
+hsm_client_riot_STM32Cube.c:770:7:hsm_client_riot_get_alias_key	32	static
+hsm_client_riot_STM32Cube.c:539:12:process_riot_key_info	1992	static
+hsm_client_riot_STM32Cube.c:698:19:hsm_client_riot_create	24	static
+hsm_client_riot_STM32Cube.c:649:5:hsm_client_x509_init	88	static
+hsm_client_riot_STM32Cube.c:689:6:hsm_client_x509_deinit	0	static
+hsm_client_riot_STM32Cube.c:693:34:hsm_client_x509_interface	0	static
+hsm_client_riot_STM32Cube.c:799:7:hsm_client_riot_get_device_cert	32	static
+hsm_client_riot_STM32Cube.c:828:7:hsm_client_riot_get_signer_cert	32	static
+hsm_client_riot_STM32Cube.c:857:7:hsm_client_riot_get_root_cert	32	static
+hsm_client_riot_STM32Cube.c:882:7:hsm_client_riot_get_root_key	32	static
+hsm_client_riot_STM32Cube.c:931:7:hsm_client_riot_create_leaf_cert	1080	static

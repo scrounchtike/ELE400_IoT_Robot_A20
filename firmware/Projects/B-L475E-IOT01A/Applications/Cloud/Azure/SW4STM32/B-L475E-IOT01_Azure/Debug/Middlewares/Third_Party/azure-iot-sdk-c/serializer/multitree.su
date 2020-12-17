@@ -1,0 +1,16 @@
+multitree.c:68:31:getChildByName	24	static
+multitree.c:112:26:createLeaf	48	static
+multitree.c:17:1:MULTITREE_RESULTStrings	0	static
+multitree.c:17:1:MULTITREE_RESULT_FromString	24	static
+multitree.c:30:18:MultiTree_Create	24	static
+multitree.c:211:18:MultiTree_AddLeaf	168	static
+multitree.c:347:18:MultiTree_AddChild	40	static
+multitree.c:401:18:MultiTree_GetChildCount	32	static
+multitree.c:426:18:MultiTree_GetChild	32	static
+multitree.c:461:18:MultiTree_GetName	32	static
+multitree.c:503:18:MultiTree_GetChildByName	48	static
+multitree.c:546:18:MultiTree_GetValue	32	static
+multitree.c:580:18:MultiTree_SetValue	32	static
+multitree.c:619:6:MultiTree_Destroy	16	static
+multitree.c:656:18:MultiTree_GetLeafValue	64	static
+multitree.c:783:18:MultiTree_DeleteChild	48	static

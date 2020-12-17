@@ -1,0 +1,11 @@
+vector.c:12:15:VECTOR_create	32	static
+vector.c:41:6:VECTOR_destroy	24	static
+vector.c:56:15:VECTOR_move	24	static
+vector.c:89:5:VECTOR_push_back	56	static
+vector.c:126:6:VECTOR_erase	48	static
+vector.c:189:6:VECTOR_clear	24	static
+vector.c:207:7:VECTOR_element	32	static
+vector.c:233:7:VECTOR_front	24	static
+vector.c:259:7:VECTOR_back	24	static
+vector.c:285:7:VECTOR_find_if	40	static
+vector.c:323:8:VECTOR_size	24	static

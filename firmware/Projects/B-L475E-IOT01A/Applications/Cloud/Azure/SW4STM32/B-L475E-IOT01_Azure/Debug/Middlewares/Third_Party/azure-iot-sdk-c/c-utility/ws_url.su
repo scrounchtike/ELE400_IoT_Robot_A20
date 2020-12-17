@@ -1,0 +1,7 @@
+ws_url.c:210:6:ws_url_destroy	8	static
+ws_url.c:221:15:ws_url_create	104	static
+ws_url.c:262:5:ws_url_is_secure	32	static
+ws_url.c:284:5:ws_url_get_host	48	static
+ws_url.c:307:5:ws_url_get_port	32	static
+ws_url.c:329:5:ws_url_get_path	48	static
+ws_url.c:352:5:ws_url_get_query	48	static

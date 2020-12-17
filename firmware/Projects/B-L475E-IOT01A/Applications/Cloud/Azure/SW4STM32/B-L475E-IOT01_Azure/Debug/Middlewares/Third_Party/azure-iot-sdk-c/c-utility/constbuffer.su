@@ -1,0 +1,8 @@
+constbuffer.c:28:27:CONSTBUFFER_Create_Internal	24	static
+constbuffer.c:66:20:CONSTBUFFER_Create	24	static
+constbuffer.c:86:20:CONSTBUFFER_CreateFromBuffer	24	static
+constbuffer.c:104:20:CONSTBUFFER_CreateWithMoveMemory	32	static
+constbuffer.c:138:20:CONSTBUFFER_CreateWithCustomFree	48	static
+constbuffer.c:183:6:CONSTBUFFER_IncRef	32	static
+constbuffer.c:197:20:CONSTBUFFER_GetContent	24	static
+constbuffer.c:214:6:CONSTBUFFER_DecRef	32	static

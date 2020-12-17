@@ -1,0 +1,3 @@
+hsm_client_tpm_STM32Cube.c:517:5:hsm_client_tpm_init	0	static
+hsm_client_tpm_STM32Cube.c:522:6:hsm_client_tpm_deinit	0	static
+hsm_client_tpm_STM32Cube.c:526:33:hsm_client_tpm_interface	0	static

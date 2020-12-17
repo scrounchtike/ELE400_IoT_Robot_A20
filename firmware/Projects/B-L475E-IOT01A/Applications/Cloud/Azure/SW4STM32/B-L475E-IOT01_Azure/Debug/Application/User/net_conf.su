@@ -1,0 +1,11 @@
+net_conf.c:480:6:SPI_WIFI_DelayUs	32	static
+net_conf.c:351:9:wait_spi_tx_event	16	static
+net_conf.c:243:15:SPI_WIFI_ResetModule	32	static
+net_conf.c:370:9:SPI_WIFI_ReceiveData	48	static
+net_conf.c:431:9:SPI_WIFI_SendData	40	static
+net_conf.c:279:15:SPI_WIFI_DeInit	8	static
+net_conf.c:186:15:SPI_WIFI_Init	64	static
+net_conf.c:521:6:HAL_SPI_RxCpltCallback	0	static
+net_conf.c:536:6:HAL_SPI_TxCpltCallback	0	static
+net_conf.c:551:9:SPI_WIFI_ISR	0	static
+net_conf.c:565:9:wifi_probe	24	static

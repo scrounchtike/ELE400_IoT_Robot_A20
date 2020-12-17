@@ -1,0 +1,17 @@
+map.c:248:15:findKey	24	static
+map.c:61:15:Map_CloneVector	24	static
+map.c:209:13:Map_DecreaseStorageKeysValues	24	static
+map.c:294:12:insertNewKeyValue	32	static
+map.c:11:1:MAP_RESULTStrings	0	static
+map.c:11:1:MAP_RESULT_FromString	24	static
+map.c:23:12:Map_Create	8	static
+map.c:39:6:Map_Destroy	16	static
+map.c:99:12:Map_Clone	24	static
+map.c:327:12:Map_Add	32	static
+map.c:377:12:Map_AddOrUpdate	40	static
+map.c:442:12:Map_Delete	40	static
+map.c:480:12:Map_ContainsKey	24	static
+map.c:504:12:Map_ContainsValue	48	static
+map.c:528:13:Map_GetValueFromKey	16	static
+map.c:559:12:Map_GetInternals	24	static
+map.c:587:15:Map_ToJSON	48	static

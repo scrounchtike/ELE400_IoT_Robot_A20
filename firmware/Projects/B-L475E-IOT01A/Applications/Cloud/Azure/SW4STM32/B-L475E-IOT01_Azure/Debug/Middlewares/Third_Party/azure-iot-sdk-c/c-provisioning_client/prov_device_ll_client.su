@@ -1,0 +1,14 @@
+prov_device_ll_client.c:183:13:on_transport_error	0	static
+prov_device_ll_client.c:577:13:on_transport_status	32	static
+prov_device_ll_client.c:497:13:cleanup_prov_info	16	static
+prov_device_ll_client.c:636:13:destroy_instance	8	static
+prov_device_ll_client.c:112:14:prov_transport_challenge_callback	48	static
+prov_device_ll_client.c:515:13:on_transport_registration_data	40	static
+prov_device_ll_client.c:254:14:retrieve_json_item	32	static
+prov_device_ll_client.c:282:24:prov_transport_process_json_reply	64	static
+prov_device_ll_client.c:647:23:Prov_Device_LL_Create	48	static
+prov_device_ll_client.c:728:6:Prov_Device_LL_Destroy	0	static
+prov_device_ll_client.c:738:20:Prov_Device_LL_Register_Device	64	static
+prov_device_ll_client.c:887:6:Prov_Device_LL_DoWork	40	static
+prov_device_ll_client.c:1002:20:Prov_Device_LL_SetOption	48	static
+prov_device_ll_client.c:1120:13:Prov_Device_LL_GetVersionString	0	static

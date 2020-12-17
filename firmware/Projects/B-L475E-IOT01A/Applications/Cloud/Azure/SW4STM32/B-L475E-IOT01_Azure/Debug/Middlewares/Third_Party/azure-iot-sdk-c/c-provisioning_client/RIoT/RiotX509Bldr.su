@@ -1,0 +1,11 @@
+RiotX509Bldr.c:80:1:X509AddX501Name	24	static
+RiotX509Bldr.c:115:1:X509GetDeviceCertTBS	96	static
+RiotX509Bldr.c:176:1:X509MakeDeviceCert	48	static
+RiotX509Bldr.c:209:1:X509GetAliasCertTBS	96	static
+RiotX509Bldr.c:253:1:X509MakeAliasCert	0	static
+RiotX509Bldr.c:286:1:X509GetDEREccPub	88	static
+RiotX509Bldr.c:311:1:X509GetDEREcc	88	static
+RiotX509Bldr.c:341:1:X509GetDERCsrTbs	88	static
+RiotX509Bldr.c:373:1:X509GetDERCsr	0	static
+RiotX509Bldr.c:405:1:X509GetRootCertTBS	96	static
+RiotX509Bldr.c:466:1:X509MakeRootCert	0	static

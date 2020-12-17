@@ -1,0 +1,15 @@
+iot_flash_config.c:83:5:getInputString	32	static
+iot_flash_config.c:226:5:checkWiFiCredentials	20	static
+iot_flash_config.c:252:5:updateWiFiCredentials	120	static
+iot_flash_config.c:302:5:enterPemString	40	static
+iot_flash_config.c:342:6:CaptureAndFlashPem	16	static
+iot_flash_config.c:446:5:checkTLSRootCA	0	static
+iot_flash_config.c:459:5:checkTLSDeviceConfig	0	static
+iot_flash_config.c:373:5:updateTLSCredentials	24	static
+iot_flash_config.c:471:5:setIoTDeviceConfig	8	static
+iot_flash_config.c:491:5:getServerAddress	20	static
+iot_flash_config.c:515:5:getIoTDeviceConfig	20	static
+iot_flash_config.c:537:5:checkIoTDeviceConfig	0	static
+iot_flash_config.c:551:5:getTLSKeys	32	static
+iot_flash_config.c:631:5:setIoTState	8	static
+iot_flash_config.c:651:5:getIoTState	20	static

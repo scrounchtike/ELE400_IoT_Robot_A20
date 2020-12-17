@@ -1,0 +1,6 @@
+RiotAes128.c:106:13:EncryptRounds	36	static
+RiotAes128.c:133:6:RIOT_AES128_Enable	20	static
+RiotAes128.c:148:6:RIOT_AES128_Disable	0	static
+RiotAes128.c:154:6:RIOT_AES_CTR_128	64	static
+RiotAes128.c:227:6:RIOT_AES_ECB_128_ENCRYPT	64	static
+RiotAes128.c:266:14:riot_aes_modes	0	static

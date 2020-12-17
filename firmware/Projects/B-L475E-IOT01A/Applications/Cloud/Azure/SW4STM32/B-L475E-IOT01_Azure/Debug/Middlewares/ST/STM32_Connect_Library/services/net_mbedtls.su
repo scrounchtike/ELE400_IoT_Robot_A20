@@ -1,0 +1,12 @@
+net_mbedtls.c:111:13:DebugPrint	0	static
+net_mbedtls.c:478:12:mbedtls_net_send	16	static
+net_mbedtls.c:426:12:mbedtls_net_recv	40	static
+net_mbedtls.c:409:13:mbedtls_free_resource.isra.1	16	static
+net_mbedtls.c:74:6:net_tls_init	0	static
+net_mbedtls.c:81:6:net_tls_destroy	0	static
+net_mbedtls.c:89:6:net_mbedtls_check_tlsdata	16	static
+net_mbedtls.c:129:6:net_mbedtls_set_read_timeout	0	static
+net_mbedtls.c:138:9:net_mbedtls_start	552	static
+net_mbedtls.c:335:9:net_mbedtls_sock_recv	8	static
+net_mbedtls.c:367:9:net_mbedtls_sock_send	8	static
+net_mbedtls.c:391:9:net_mbedtls_stop	16	static

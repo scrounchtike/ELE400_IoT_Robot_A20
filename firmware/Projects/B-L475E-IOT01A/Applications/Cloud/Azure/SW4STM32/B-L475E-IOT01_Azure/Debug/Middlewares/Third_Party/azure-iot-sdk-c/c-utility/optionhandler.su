@@ -1,0 +1,8 @@
+optionhandler.c:59:29:AddOptionInternal	48	static
+optionhandler.c:105:13:DestroyInternal	24	static
+optionhandler.c:24:29:CreateInternal	32	static
+optionhandler.c:120:22:OptionHandler_Create	48	static
+optionhandler.c:142:22:OptionHandler_Clone	40	static
+optionhandler.c:195:22:OptionHandler_AddOption	48	static
+optionhandler.c:216:22:OptionHandler_FeedOptions	40	static
+optionhandler.c:257:6:OptionHandler_Destroy	32	static

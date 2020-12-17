@@ -1,0 +1,16 @@
+iothub_client_authorization.c:55:35:initialize_auth_client	24	static
+iothub_client_authorization.c:38:12:get_seconds_since_epoch	16	static
+iothub_client_authorization.c:93:29:IoTHubClient_Auth_Create	32	static
+iothub_client_authorization.c:151:29:IoTHubClient_Auth_CreateFromDeviceAuth	32	static
+iothub_client_authorization.c:200:6:IoTHubClient_Auth_Destroy	8	static
+iothub_client_authorization.c:217:24:IoTHubClient_Auth_Set_x509_Type	0	static
+iothub_client_authorization.c:249:5:IoTHubClient_Auth_Set_xio_Certificate	32	static
+iothub_client_authorization.c:297:5:IoTHubClient_Auth_Get_x509_info	48	static
+iothub_client_authorization.c:346:24:IoTHubClient_Auth_Get_Credential_Type	32	static
+iothub_client_authorization.c:363:7:IoTHubClient_Auth_Get_SasToken	72	static
+iothub_client_authorization.c:486:13:IoTHubClient_Auth_Get_DeviceId	32	static
+iothub_client_authorization.c:503:13:IoTHubClient_Auth_Get_ModuleId	32	static
+iothub_client_authorization.c:520:13:IoTHubClient_Auth_Get_DeviceKey	32	static
+iothub_client_authorization.c:537:18:IoTHubClient_Auth_Is_SasToken_Valid	32	static
+iothub_client_authorization.c:670:5:IoTHubClient_Auth_Set_SasToken_Expiry	32	static
+iothub_client_authorization.c:692:8:IoTHubClient_Auth_Get_SasToken_Expiry	24	static

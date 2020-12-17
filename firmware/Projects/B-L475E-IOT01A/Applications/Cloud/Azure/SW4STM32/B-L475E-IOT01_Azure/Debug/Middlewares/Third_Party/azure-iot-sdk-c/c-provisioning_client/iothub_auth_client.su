@@ -1,0 +1,4 @@
+iothub_auth_client.c:122:24:iothub_device_auth_create	40	static
+iothub_auth_client.c:251:6:iothub_device_auth_destroy	8	static
+iothub_auth_client.c:266:18:iothub_device_auth_get_type	24	static
+iothub_auth_client.c:284:20:iothub_device_auth_generate_credentials	136	static

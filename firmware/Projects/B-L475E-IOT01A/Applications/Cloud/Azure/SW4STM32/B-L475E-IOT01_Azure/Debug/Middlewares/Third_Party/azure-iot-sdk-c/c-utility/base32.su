@@ -1,0 +1,6 @@
+base32.c:159:22:base32_decode_impl	56	static
+base32.c:70:14:base32_encode_impl	56	static
+base32.c:270:15:Base32_Decode	24	static
+base32.c:298:15:Base32_Decode_String	24	static
+base32.c:316:7:Base32_Encode_Bytes	24	static
+base32.c:351:15:Base32_Encode	24	static

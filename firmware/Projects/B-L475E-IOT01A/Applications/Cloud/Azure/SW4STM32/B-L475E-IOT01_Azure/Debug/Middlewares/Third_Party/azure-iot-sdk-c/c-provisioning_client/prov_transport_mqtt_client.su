@@ -1,0 +1,14 @@
+prov_transport_mqtt_client.c:61:30:prov_transport_mqtt_create	24	static
+prov_transport_mqtt_client.c:17:19:mqtt_transport_io	64	static
+prov_transport_mqtt_client.c:67:6:prov_transport_mqtt_destroy	0	static
+prov_transport_mqtt_client.c:73:5:prov_transport_mqtt_open	0	static
+prov_transport_mqtt_client.c:79:5:prov_transport_mqtt_close	0	static
+prov_transport_mqtt_client.c:85:5:prov_transport_mqtt_register_device	0	static
+prov_transport_mqtt_client.c:91:5:prov_transport_mqtt_get_operation_status	0	static
+prov_transport_mqtt_client.c:97:6:prov_transport_mqtt_dowork	0	static
+prov_transport_mqtt_client.c:103:5:prov_transport_mqtt_set_trace	0	static
+prov_transport_mqtt_client.c:127:12:prov_transport_mqtt_set_option	0	static
+prov_transport_mqtt_client.c:121:12:prov_transport_mqtt_set_proxy	0	static
+prov_transport_mqtt_client.c:115:12:prov_transport_mqtt_set_trusted_cert	0	static
+prov_transport_mqtt_client.c:109:12:prov_transport_mqtt_x509_cert	0	static
+prov_transport_mqtt_client.c:148:39:Prov_Device_MQTT_Protocol	0	static

@@ -1,0 +1,4 @@
+methodreturn.c:22:6:is_json_present_and_unparsable	8	static
+methodreturn.c:46:21:MethodReturn_Create	40	static
+methodreturn.c:92:6:MethodReturn_Destroy	32	static
+methodreturn.c:111:26:MethodReturn_GetReturn	0	static

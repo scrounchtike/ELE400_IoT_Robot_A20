@@ -1,0 +1,6 @@
+iothub_security_factory.c:54:5:iothub_security_init	40	static
+iothub_security_factory.c:91:6:iothub_security_deinit	8	static
+iothub_security_factory.c:110:22:iothub_security_type	0	static
+iothub_security_factory.c:115:5:iothub_security_set_symmetric_key_info	40	static
+iothub_security_factory.c:173:13:iothub_security_get_symmetric_key	0	static
+iothub_security_factory.c:178:13:iothub_security_get_symm_registration_name	0	static

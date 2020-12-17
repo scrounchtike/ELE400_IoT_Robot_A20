@@ -1,0 +1,4 @@
+RiotBase64.c:14:1:base64char	0	static
+RiotBase64.c:64:1:base64toValue	0	static
+RiotBase64.c:145:1:Base64Decode	40	static
+RiotBase64.c:224:1:Base64Encode	56	static
